@@ -18,13 +18,13 @@ tile.blockEnderIo.tooltip.detailed.line4=ou le Bâton de Voyage
 enderio.itemEnderface=Masque d'Ender
 
 //Conduits
-enderio.blockConduitBundle=Faisceau de Conduits
+enderio.blockConduitBundle=Groupe de Conduits
 enderio.blockConduitFacade=Façade
 enderio.itemConduitFacade=Façade
 item.enderio.itemConduitFacade.hardened.name=Façade Renforcée
 enderio.item.itemConduitFacade.tooltip.notpainted=Non Peinte
 item.enderio.itemConduitFacade.tooltip.detailed.line1=Peinte dans la Machine à enduction
-item.enderio.itemConduitFacade.tooltip.detailed.line2=Clic-D sur un conduit pour installer
+item.enderio.itemConduitFacade.tooltip.detailed.line2=Clic Droit sur un conduit pour installer
 item.enderio.itemConduitFacade.tooltip.detailed.line3=Invisible si Clé ou conduit
 item.enderio.itemConduitFacade.tooltip.detailed.line4=en main
 item.enderio.itemConduitFacade.hardened.tooltip=Renforcée : Résiste à la casse et aux explosions
@@ -470,7 +470,7 @@ enderio.machine.tooltip.configured=(Configuré)
 
 //Blocks
 tile.blockDarkSteelPressurePlate.name=Plaque de pression Sombre
-tile.blockDarkSteelPressurePlate.tooltip.detailed.line1=Activée seuleemnt par les joueurs
+tile.blockDarkSteelPressurePlate.tooltip.detailed.line1=Activée seulement par les joueurs
 tile.blockDarkSteelPressurePlate.tooltip.detailed.line2=Peut être painte dans la machine à enduction,
 tile.blockDarkSteelPressurePlate.tooltip.detailed.line3=invisible lorsque peinte avec du Verre
 tile.blockDarkSteelPressurePlate.tooltip.detailed.line4=semi-transparent
@@ -1001,7 +1001,7 @@ enderio.nei.enchanter=Enchanteur
 enderio.nei.sagmill=Broyeur SAG
 enderio.nei.slicensplice=Couper&Coller
 enderio.nei.soulbinder=Lieur d'Âme
-enderio.nei.vat=Vat
+  enderio.nei.vat=Cuve
 enderio.tooltip.burntime=Temps de combustion :
 enderio.tooltip.oredict=Ore Dictionary :
 enderio.tooltip.meta=Meta :
